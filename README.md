@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yehor and I am a 21-year-old computer game engineer graduate from Akademia Finansów I Biznesu Vistula (Vistula University In Warsaw). I have been passionate about making computer games since I was at school. As a junior developer I am interested in all aspects of creating video games - from making up the idea to publishing the finished product. Currently, I focuse on writing gameplay logic and in my spare time I experiment with AI in Unreal Engine 4/5 as well. Moreover, I learn not only Unreal Engine Framework but also a pure C++. I have two convictions: the first one is "practice makes perfect" and the second -"lifelong learning".
+My name is Yehor and I am a 22-year-old computer game engineer graduate from Akademia Finansów I Biznesu Vistula (Vistula University In Warsaw). I have been passionate about making computer games since I was at school. As a junior developer I am interested in all aspects of creating video games - from making up the idea to publishing the finished product. Currently, I focuse on writing gameplay logic and in my spare time I experiment with AI in Unreal Engine 4/5 as well. Moreover, I learn not only Unreal Engine Framework but also a pure C++. I have two convictions: the first one is "practice makes perfect" and the second -"lifelong learning".
 
 <!--
 **Eg001st/Eg001st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
